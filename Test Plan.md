@@ -68,8 +68,8 @@ Test ediləcək modullar:
 
 ## 9. Test Environment
 - **Hardware:** Desktop
-- **OS:** Windows 10 / 11
-- **Browsers:** Chrome, Firefox, Opera
+- **OS:** macOS
+- **Browsers:** Chrome
 - **URL:** https://parabank.parasoft.com/parabank/index.htm
 
 ---
